@@ -5,60 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57e62d27-d05d-4674-89cd-18316c8abdfb" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/programowanie aplikacji.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/00 Test/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/00 Test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/00 Test/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/01 Suma dwóch liczb/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/01 Suma dwóch liczb/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/01 Suma dwóch liczb/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/02 Operacje matematyczne/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/02 Operacje matematyczne/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/02 Operacje matematyczne/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/03 Powitanie z formularzem/arkusz.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/03 Powitanie z formularzem/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/03 Powitanie z formularzem/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/04 Obliczenie pola i obwodu prostokąta/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/04 Obliczenie pola i obwodu prostokąta/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/04 Obliczenie pola i obwodu prostokąta/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/05 Średnia arytmetyczna czterech liczb/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/05 Średnia arytmetyczna czterech liczb/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/05 Średnia arytmetyczna czterech liczb/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/05 Średnia arytmetyczna czterech liczb/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/05 Średnia arytmetyczna czterech liczb/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/06 Iloraz dwóch liczb/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/06 Iloraz dwóch liczb/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/06 Iloraz dwóch liczb/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/07 Suma róznica lioczyn i iloraz liczb całkowitch wersja 2/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/07 Suma róznica lioczyn i iloraz liczb całkowitch wersja 2/demo/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/07 Suma róznica lioczyn i iloraz liczb całkowitch wersja 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/07 Suma róznica lioczyn i iloraz liczb całkowitch wersja 2/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/07 Suma róznica lioczyn i iloraz liczb całkowitch wersja 2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/07 Suma róznica lioczyn i iloraz liczb całkowitch/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/07 Suma róznica lioczyn i iloraz liczb całkowitch/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/07 Suma róznica lioczyn i iloraz liczb całkowitch/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/08 Godziny,minuty,sekundy/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/08 Godziny,minuty,sekundy/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/08 Godziny,minuty,sekundy/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/08 Godziny,minuty,sekundy/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/09 cale na milimetry/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/09 cale na milimetry/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/09 cale na milimetry/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/TO1 Zasady programowania/img/s1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/TO1 Zasady programowania/img/s10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/TO1 Zasady programowania/img/s2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/TO1 Zasady programowania/img/s3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/TO1 Zasady programowania/img/s4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/TO1 Zasady programowania/img/s5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/TO1 Zasady programowania/img/s6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/TO1 Zasady programowania/img/s7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/TO1 Zasady programowania/img/s8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/TO1 Zasady programowania/img/s9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/TO1 Zasady programowania/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/TO1 Zasady programowania/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/10 Oblicz wyrażenie/demo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/10 Oblicz wyrażenie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/10 Oblicz wyrażenie/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania Praktyczne/10 Oblicz wyrażenie/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -81,7 +32,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Ghs2z9BNCOLvQ9R5kHIiTWiORx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -120,8 +73,16 @@
       <workItem from="1666943659018" duration="1994000" />
       <workItem from="1667459268814" duration="7361000" />
       <workItem from="1667551735398" duration="254000" />
-      <workItem from="1667552022238" duration="585000" />
+      <workItem from="1667552022238" duration="2067000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1667552746428</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667552746428</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
