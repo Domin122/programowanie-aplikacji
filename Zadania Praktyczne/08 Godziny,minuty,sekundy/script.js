@@ -12,7 +12,7 @@ btn.addEventListener('click', function() {
     let s = sekundy_cale%60;
     let suma = (g+` g `+m+ ` m `+s+ ` s `);
     let wynik_tekst = ``;
-    wynik_tekst += `${suma}<br>`;
+    wynik_tekst += `${suma}<br> `;
 
     wynik.innerHTML = wynik_tekst;
 });
