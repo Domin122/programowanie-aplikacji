@@ -6,8 +6,8 @@ const btn = document.querySelector('button');
 btn.addEventListener('click', function() {
     let a =parseInt(liczba_a.value);
     let b =parseInt(liczba_b.value);
-    let suma = a+b;
     let wynik_tekst = ``;
+    let suma = a+b;
     wynik_tekst += `Suma liczb ${a} i ${b} wynosi ${suma}<br>`;
     let roznica = a-b;
     wynik_tekst += `Różnica liczb ${a} i ${b} wynosi ${roznica}<br>`;
