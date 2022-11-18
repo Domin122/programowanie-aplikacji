@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 50px;
+}
+
+header {
+    background-color: brown;
+    color:bisque;
+    padding: 50px;
+
+}
+table, th, td {
+    border: 1px solid black;
+  }
