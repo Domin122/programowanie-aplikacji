@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57e62d27-d05d-4674-89cd-18316c8abdfb" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T13 Biblioteki projektów skryptowych/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T13 Biblioteki projektów skryptowych/sketch.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadania Teoretyczne/T01 Zasady programowania/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T01 Zasady programowania/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania Teoretyczne/T13 Biblioteki projektów skryptowych/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania Teoretyczne/T13 Biblioteki projektów skryptowych/sketch.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/2ir02_k01/Documents/programowanie aplikacji&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/2ir02_k01/Documents/programowanie-aplikacji&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -78,6 +77,9 @@
       <workItem from="1668668764965" duration="8276000" />
       <workItem from="1668677409735" duration="52000" />
       <workItem from="1668761453061" duration="1859000" />
+      <workItem from="1669274769166" duration="34000" />
+      <workItem from="1669274947826" duration="73000" />
+      <workItem from="1669275023780" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1667552746428</created>
