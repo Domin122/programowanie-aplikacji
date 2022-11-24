@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57e62d27-d05d-4674-89cd-18316c8abdfb" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadania Teoretyczne/T13 Biblioteki projektów skryptowych/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadania Teoretyczne/T13 Biblioteki projektów skryptowych/sketch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania Teoretyczne/T13 Biblioteki projektów skryptowych/1 Wersja/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T13 Biblioteki projektów skryptowych/1 Wersja/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +78,7 @@
       <workItem from="1669274769166" duration="34000" />
       <workItem from="1669274947826" duration="73000" />
       <workItem from="1669275023780" duration="39000" />
+      <workItem from="1669275093267" duration="568000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1667552746428</created>
@@ -151,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668761879177</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commit">
+      <created>1669275149405</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669275149405</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
