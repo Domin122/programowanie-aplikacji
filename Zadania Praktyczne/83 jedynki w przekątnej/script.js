@@ -1,14 +1,16 @@
-const a = document.querySelector(`#liczba_a`)
-const btn = document.querySelector(`button`)
-const wynik = document.querySelector(`#wynik`)
+let a = document.querySelector(`#liczba_a`)
+let btn = document.querySelector(`button`)
+let wynik = document.querySelector(`#wynik`)
 
 btn.addEventListener(`click`, function () {
     wynik.innerHTML = ``
-    for(i=1; i<=a.value ; i++){
-        for(j=0; j<i; j++){
-            wynik.innerHTML += `0`
+    let x = 0;
+    for(let i = 0; i < a.value; i++) {
+        for(let j = 0; j < a.value; j++) {
+            if(j === x) wynik.innerHTML += `1`
+            else wynik.innerHTML += `0`
         }
         wynik.innerHTML += `<br>`
+        x++
     }
-
 });

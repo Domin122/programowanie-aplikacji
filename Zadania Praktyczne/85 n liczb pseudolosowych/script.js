@@ -1,13 +1,15 @@
-const n = document.querySelector('#liczba_a');
-const min = document.querySelector('#min');
-const max = document.querySelector('#max');
-const wynik = document.querySelector('#wynik');
-const btn = document.querySelector('button');
+const btn = document.querySelector(`button`)
+const wynik = document.querySelector(`#wynik`)
 
-btn.addEventListener('click', function() {
-    let n =parseInt(liczba_a.value)
-    let m =parseInt(min.value);
-    let x =parseInt(max.value);
+btn.addEventListener(`click`, function () {
+    let n =parseInt(document.querySelector(`#liczba_a`).value)
+    let min =parseInt(document.querySelector(`#min`).value)
+    let max =parseInt(document.querySelector(`#max`).value)
 
+    wynik.innerHTML = ``
 
-});
+    for (let i = 0; i < n; i++) {
+        let x = Math.floor(Math.random() * (max-min+1)+min)
+        wynik.innerHTML += `${x} `
+    }
+})
