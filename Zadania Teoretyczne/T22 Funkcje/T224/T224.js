@@ -1,10 +1,18 @@
-const liczba_a = document.querySelector('#liczba_a');
-const liczba_b = document.querySelector('#liczba_b');
-const wynik = document.querySelector('#wynik');
-const btn = document.querySelector('button');
+const btn = document.querySelector(`button`)
+let wynik = document.querySelector(`#wynik`)
 
-btn.addEventListener('click', function(){
-    let a = parseInt(liczba_a.value);
-    let b = parseInt(liczba_a.value);
-    wynik.innerHTML = funMiesiac(m);
-});
+btn.addEventListener(`click`, function () {
+    let a = parseInt(document.querySelector(`#liczba_a`).value)
+    let b = parseInt(document.querySelector(`#liczba_b`).value)
+
+    if (a < b) {
+        wynik.innerHTML = `<span id="lower">${a}</span>, <span id="higher">${b}</span>`
+    }
+    else if (a > b) {
+        wynik.innerHTML = `<span id="higher">${a}</span>, <span id="lower">${b}</span>`
+    }
+    else {
+        wynik.innerHTML = `<span id="same">${a}</span>, <span id="same">${b}</span>`
+    }
+
+})

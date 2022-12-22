@@ -1,5 +1,6 @@
 body{
     background-color: blanchedalmond;
+    color: brown;
     font-family: 'Times New Roman', Times, serif;
     margin: 50px;
 }
@@ -12,20 +13,4 @@ section {
     border: 1px solid brown;
     margin: 20px;
     padding: 20px;
-}
-
-#minus {
-    color: #f0000c;
-}
-
-#lower {
-    color: green;
-}
-
-#higher {
-    color: red;
-}
-
-#same {
-    color: blue;
 }

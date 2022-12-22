@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57e62d27-d05d-4674-89cd-18316c8abdfb" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T22 Funkcje/T224/T224.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T22 Funkcje/T224/T224.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T22 Funkcje/T224/T224.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T22 Funkcje/T225/T225.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T22 Funkcje/T225/T225.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T22 Funkcje/T225/T225.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania Teoretyczne/T22 Funkcje/T224/T224.css" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T22 Funkcje/T224/T224.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadania Teoretyczne/T22 Funkcje/T224/T224.js" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T22 Funkcje/T224/T224.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +88,7 @@
       <workItem from="1669971056950" duration="1191000" />
       <workItem from="1670482987840" duration="8082000" />
       <workItem from="1670575849960" duration="2410000" />
-      <workItem from="1671693068456" duration="1204000" />
+      <workItem from="1671693068456" duration="2536000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1667552746428</created>
@@ -221,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671693140887</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="commit">
+      <created>1671694314589</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1671694314589</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
