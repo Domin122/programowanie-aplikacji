@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>T222</title>
+</head>
+<body>
+<header>
+    <h1>Zadanie T222</h1>
+    <h2>Autor: Dominik Gabrysz 2ir_2</h2>
+    <hr>
+</header>
+<script>
+    function potega(x,y){
+        let wynik = 1;
+        for(let i=1; i<=y; i++){
+            wynik *= x;
+        }
+        return wynik;
+    }
+    let x = 2;
+    let y = 3;
+    let wynik = potega(x,y)
+    document.write(`${x}<sup>${y}</sup> = ${wynik}`);
+</script>
+</body>
+</html>

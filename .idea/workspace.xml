@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57e62d27-d05d-4674-89cd-18316c8abdfb" name="Changes" comment="commit" />
+    <list default="true" id="57e62d27-d05d-4674-89cd-18316c8abdfb" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T22 Funkcje/T224/T224.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T22 Funkcje/T224/T224.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T22 Funkcje/T224/T224.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +86,7 @@
       <workItem from="1669971056950" duration="1191000" />
       <workItem from="1670482987840" duration="8082000" />
       <workItem from="1670575849960" duration="2410000" />
+      <workItem from="1671693068456" duration="1204000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1667552746428</created>
@@ -208,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670578274997</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="commit">
+      <created>1671693140887</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1671693140887</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
