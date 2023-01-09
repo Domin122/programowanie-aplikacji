@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>1</title>
+</head>
+<body>
+<script>
+    function wypiszDate() {
+        const data = new Date();
+        const miesiac = data.getMonth() + 1;
+        const rok = data.getFullYear();
+
+        console.log(`Aktualny miesiąc: ${miesiac}, aktualny rok: ${rok}`);
+
+        const wydarzenia = [
+            { data: '2023-1-01', nazwa: 'Nowy Rok' },
+            { data: '2023-1-06', nazwa: 'Trzech Króli' },
+            { data: '2023-2-14', nazwa: 'Walentynki' },
+            { data: '2023-5-01', nazwa: 'Święto Pracy' },
+            { data: '2023-6-20', nazwa: 'Dzień Ojca' },
+        ];
+
+        console.log('Wydarzenia w tym miesiącu:');
+        for (const wydarzenie of wydarzenia) {
+            if (wydarzenie.data.startsWith(`${rok}-${miesiac}`)) {
+                console.log(wydarzenie.nazwa);
+            }
+        }
+    }
+
+    wypiszDate();
+
+</script>
+
+
+</body>
+</html>

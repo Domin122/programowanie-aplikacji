@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>2</title>
+</head>
+<body>
+<script>
+    function wypiszDate() {
+        const data = new Date();
+        const miesiac = data.getMonth() + 1;
+        const rok = data.getFullYear();
+        console.log(`Aktualny miesiąc: ${miesiac}, aktualny rok: ${rok}`);
+
+        console.log(`Urodziny znanych osób w ${miesiac}/${rok}:`);
+        const urodzeni = pobierzUrodziny(miesiac, rok);
+        for (const osoba of urodzeni) {
+            console.log(osoba.imie);
+        }
+
+
+        const wydarzenia = pobierzWydarzenia(miesiac, rok);
+        console.log(`Wydarzenia z ${miesiac}/${rok}:`);
+        for (const wydarzenie of wydarzenia) {
+            console.log(wydarzenie.Wydarzenie);
+        }
+    }
+
+    function pobierzUrodziny(miesiac, rok) {
+        const urodziny = [
+            { imie: 'Jan Kowalski', miesiac: 1, dzien: 1, rok: 2023 },
+            { imie: 'Anna Nowak', miesiac: 5, dzien: 3, rok: 2023},
+            { imie: 'Piotr Wiśniewski', miesiac: 12, dzien: 5, rok: 2023 },
+            { imie: `Marek Kowal`, miesiac: 1, dzien: 1, rok: 2023}
+        ];
+
+        return urodziny.filter(u => u.miesiac === miesiac && u.rok === rok);
+    }
+
+    function pobierzWydarzenia(miesiac, rok) {
+        return wszystkieWydarzenia.filter(w => w.miesiac === miesiac && w.rok === rok);
+    }
+    const wszystkieWydarzenia = [
+        {Wydarzenie: 'Nowy Rok', miesiac: 1, dzien: 1, rok: 2023},
+        {Wydarzenie: '1 dzień stycznia', miesiac: 1, dzien: 1, rok: 2023},
+        {Wydarzenie: 'Grudzień', miesiac: 12, dzien: 5, rok: 2023},
+        {Wydarzenie: `Trzech Króli`, miesiac: 1, dzien: 6, rok: 2023}
+    ];
+
+    wypiszDate();
+
+</script>
+
+</body>
+</html>
