@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57e62d27-d05d-4674-89cd-18316c8abdfb" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T24b Parsowanie Daty/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T24b Parsowanie Daty/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T24c Porównywanie Daty/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T24c Porównywanie Daty/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadania Teoretyczne/T24 Formatowanie Daty/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T24 Formatowanie Daty/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadania Teoretyczne/T24 Formatowanie Daty/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania Teoretyczne/T24 Formatowanie Daty/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -88,7 +91,8 @@
       <workItem from="1671693068456" duration="3495000" />
       <workItem from="1672646189887" duration="5295000" />
       <workItem from="1672746376534" duration="2312000" />
-      <workItem from="1673250771498" duration="2281000" />
+      <workItem from="1673250771498" duration="5232000" />
+      <workItem from="1673351059719" duration="2160000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1667552746428</created>
@@ -251,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673252393617</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="commit">
+      <created>1673253079127</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1673253079127</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
